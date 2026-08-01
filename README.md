@@ -1,2 +1,4 @@
-# javascript-array-utils-84
+# Javascript Array Utils 84
+
 Dynamic array operations helper functions in JavaScript.
+
